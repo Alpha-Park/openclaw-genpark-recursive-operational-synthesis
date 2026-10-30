@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-recursive-operational-synthesis",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Recursive Operational Synthesis - Bellman MDP trajectory policy and Lyapunov stability verifier with semantic token compression.",
+  "tools": [
+    "solve_mdp_value_iteration",
+    "compress_trajectory_tokens",
+    "calculate_lyapunov_stability"
+  ]
+}
